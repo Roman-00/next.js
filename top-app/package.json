@@ -1,8 +1,8 @@
 {
-  "name": "top-app",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
+	"name": "top-app",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
 		"prepare": "husky install",
 		"dev": "next dev",
 		"export": "next export",
@@ -11,7 +11,7 @@
 		"start": "next start",
 		"stylelint": "stylelint \"**/*.css\" --fix"
 	},
-  "dependencies": {
+	"dependencies": {
 		"axios": "^0.21.1",
 		"date-fns": "^2.21.0",
 		"framer-motion": "^4.1.11",
