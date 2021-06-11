@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { FunctionComponent } from 'react';
 import { Layoutprops } from './Layout.props';
 import cn from 'classnames';
 import styles from './Layout.module.css';
